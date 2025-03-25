@@ -1,0 +1,11 @@
+Accident ID,Date-time,Location,Weather Condition,Severity,Vehicle Type
+1,2025-03-01 08:15,Bengaluru,Sunny,Minor,Car
+2,2025-03-02 14:30,Delhi,Rainy,Major,Truck
+3,2025-03-03 19:45,Kolkata,Foggy,Fatal,Motorcycle
+4,2025-03-04 22:10,Chennai,Sunny,Minor,Car
+5,2025-03-05 06:50,Mumbai,Rainy,Major,Truck
+6,2025-03-06 12:20,Hyderabad,Foggy,Fatal,Motorcycle
+7,2025-03-07 17:35,Ahmedabad,Sunny,Minor,Car
+8,2025-03-08 20:00,Pune,Rainy,Major,Truck
+9,2025-03-09 09:40,Lucknow,Foggy,Fatal,Motorcycle
+10,2025-03-10 23:55,Indore,Sunny,Minor,Car
